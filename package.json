@@ -18,6 +18,7 @@
   "author": "FastAcademy",
   "license": "ISC",
   "dependencies": {
+    "react-native-fetch-blob": "^0.10.8",
     "rn-fetch-blob": "^0.10.16"
   }
 }
